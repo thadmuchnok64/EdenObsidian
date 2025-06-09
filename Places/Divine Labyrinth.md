@@ -1,0 +1,1 @@
+The final subsection of [[Purgatory]] on the way to [[Heaven]]. Humans seeking access into [[Heaven]] must navigate through the maze while surviving the many lethal obstacles.

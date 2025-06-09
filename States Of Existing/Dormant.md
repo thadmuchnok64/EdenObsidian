@@ -1,0 +1,1 @@
+A state of existing when a living beings soul is stuck in [[The Sea of Souls]], waiting for a vessel. Its similar to a dreamlike state, or nightmarish in the case of a [[soul]] headed for hell.

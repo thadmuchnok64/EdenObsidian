@@ -1,0 +1,1 @@
+The central city within [[Heaven]]. Houses low and middle class angels.

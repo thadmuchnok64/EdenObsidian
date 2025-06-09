@@ -1,0 +1,1 @@
+The founder of [[Halcyona]]. Created a place which seemingly was full of hope for the souls within purgatory. Ended up giving in to his own ego and is trying to seek to become a being as powerful as god or satan.

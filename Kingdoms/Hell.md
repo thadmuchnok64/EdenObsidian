@@ -1,0 +1,1 @@
+The region farthest from [[Heaven]], below [[Purgatory]]. The third region of the [[Afterlife]]

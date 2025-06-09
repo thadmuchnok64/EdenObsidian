@@ -1,0 +1,1 @@
+A place within [[Hell]]. Designed to sap every last drop of humanity from demons, keeping them from rebelling.

@@ -1,0 +1,3 @@
+Humanity has discovered the regenerative properties within angel blood, or the blood inside of an angel's [[Vessels|Vessel]]. They used to use primitive ways of acquiring it. Now they have much more moral ways by strapping angels up to machines and pumping it out of them until they have just enough to live. Then they repeat the process.
+
+Angel blood is very valuable in the [[Halcyona]] black market and has medicinal and recreational uses.

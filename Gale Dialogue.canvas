@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"25d047aa0fe85611","type":"text","text":"Where will that take me?","x":-90,"y":880,"width":250,"height":140,"color":"1"},
+		{"id":"bb1ef82c00d203d9","type":"text","text":"I know you're upset. Look, this is the way. The only way to be accepted into heaven is to accept god.\n\nHere, let me show you something. *Opens portal*","x":-380,"y":730,"width":250,"height":220,"color":"4"},
+		{"id":"1525dff66fba3861","type":"text","text":"I keep hearing that but nobody wants to look me in the eye and tell me what he did that was so bad.","x":-80,"y":550,"width":250,"height":180,"color":"1"},
+		{"id":"3ea1454a16c3c809","type":"text","text":"Gael? Long time no see!","x":-80,"y":230,"width":250,"height":60,"color":"1"},
+		{"id":"2cf9ac85926d7826","type":"text","text":"Comforting. I just need to find my human. Everybody will understand when I bring them back and we make our case.","x":-80,"y":390,"width":250,"height":160,"color":"1"},
+		{"id":"0d7207ee4fd6e3b2","type":"text","text":"Ralphy... Up here!","x":-380,"y":-20,"width":250,"height":60,"color":"4"},
+		{"id":"8f72eb8047da50d7","type":"text","text":"Ralphy, there is no case. Your human went against God, and was punished for it.","x":-380,"y":240,"width":250,"height":140,"color":"4"},
+		{"id":"8895375d3ecb796f","type":"text","text":"I heard that you were in a little bit of trouble...\n\nEveryone in town wants your head on a pike.","x":-380,"y":120,"width":250,"height":100,"color":"4"},
+		{"id":"d818403f9c3a4843","type":"text","text":"...\n\nThose who threaten the power of god, threaten goodness itself.\n\nBut... I acknowledge I've met people who seem worthy of being given a second chance in my travels.","x":-390,"y":380,"width":250,"height":300,"color":"4"},
+		{"id":"59bded8d8c236a09","type":"text","text":"Its a shelter. I've made a home for those who are looking to accept god into their heart.\n\nYou're welcome to stay there as long as you need.\n\nMaybe if you play your cards right, your human can stay there too.","x":-380,"y":950,"width":250,"height":330,"color":"4"},
+		{"id":"a8b9c4b57cba48a5","type":"text","text":"I believe they are capable of good. Theres no need to be afraid.\n\nUnfortunately, I need to run now. Lots of people I need to talk to while I'm in the city.","x":-380,"y":1280,"width":250,"height":260,"color":"4"},
+		{"id":"ad97bee5de9b52c5","type":"text","text":"I see. I've never met anybody outside of heaven before. I'm nervous.","x":-80,"y":1020,"width":250,"height":140,"color":"1"},
+		{"id":"6305d1e980a3547c","type":"text","text":"Alright, bye Gael. And thank you.","x":-90,"y":1420,"width":250,"height":80,"color":"1"}
+	],
+	"edges":[]
+}
