@@ -25,14 +25,17 @@
             "id": "772c8a610f04ea62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2025-02-24.md",
-                "mode": "source",
-                "source": false
+                "file": "Demo Stuff.canvas",
+                "viewState": {
+                  "x": 1917.79339212784,
+                  "y": 551.7278132732084,
+                  "zoom": -0.5377451953820338
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-02-24"
+              "icon": "lucide-layout-dashboard",
+              "title": "Demo Stuff"
             }
           },
           {
@@ -235,6 +238,8 @@
   },
   "active": "772c8a610f04ea62",
   "lastOpenFiles": [
+    "2025-02-24.md",
+    "04fbdbf8-2f76-416c-848a-d82da5626a1e.avif",
     "README.md",
     "Repo/README.md",
     "Repo",
@@ -252,9 +257,7 @@
     "Bosses/Warden.md",
     "Places/Zoro Capital.md",
     "Characters/Chippy.md",
-    "04fbdbf8-2f76-416c-848a-d82da5626a1e.avif",
     "Events/Shiva and Shakti.md",
-    "2025-02-24.md",
     "Untitled.md",
     "Pasted image 20250306182626.png",
     "Pasted image 20250302150039.png",
@@ -269,7 +272,6 @@
     "Places/Temple Of Redemption.md",
     "Resources/Food.md",
     "Places/Halcyona.md",
-    "Events/The Divine Rift.md",
     "States Of Existing",
     "Resources",
     "Untitled 1.canvas",
