@@ -1,1 +1,0 @@
-The place where naughty angels go. Resides within [[Heaven]]. [[Ralphy]] gets sent there at the start of the game.

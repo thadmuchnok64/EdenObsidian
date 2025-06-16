@@ -1,1 +1,0 @@
-Vessels are used by [[soul|souls]] to give the being autonomy. [[Heaven|Heaven's]] vessels have special attributes where the being do not need to feel negative human attributes such as pain or hunger.

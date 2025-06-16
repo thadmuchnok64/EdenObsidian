@@ -1,1 +1,0 @@
-Where all angels live. The first region of the [[Afterlife]].

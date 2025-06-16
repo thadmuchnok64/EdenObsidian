@@ -1,1 +1,0 @@
-Castle where [[God]] lives within the walls of [[Heaven]]

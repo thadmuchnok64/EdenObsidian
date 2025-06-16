@@ -1,1 +1,0 @@
-King of [[Hell]]. Former friend of [[God]]? Split with God after god refused to give humanity the flourish without punishments (locusts? plague?)

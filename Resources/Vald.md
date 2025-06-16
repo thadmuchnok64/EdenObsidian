@@ -1,1 +1,0 @@
-Vald is the "Goodness" of a [[Soul]]. It's also the form of currency within the [[Afterlife]] because of how much its sought after.

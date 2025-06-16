@@ -1,1 +1,0 @@
-Spans vertically the entire base of [[Heaven]]. Controls the flow of [[Soul]] in and out of heaven. Filters out the pure souls worthy for automatic insertion into an angelic [[Vessels|vessel]].
